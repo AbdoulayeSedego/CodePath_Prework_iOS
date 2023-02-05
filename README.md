@@ -1,3 +1,3 @@
 # CodePath_iOS_prework
 
-<img src="Walkthrough.gif">
+<img src="MiniatureOldElephantseal-size_restricted.gif">
