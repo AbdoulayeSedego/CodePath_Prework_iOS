@@ -6,8 +6,7 @@ An iOS App that lets students introduce themselves.
 
 ### App Walk-though
 
-<img src="MiniatureOldElephantseal-size_restricted.gif" width=200><br> OR <img src="https://gfycat.com/miniatureoldelephantseal" width=200><br>
-
+<img src="MiniatureOldElephantseal-size_restricted.gif" width=200><br>
 ### Required Features
 
 - [x] 1. App displays an image of a school's logo
